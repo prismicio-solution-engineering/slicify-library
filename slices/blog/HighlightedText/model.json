@@ -1,0 +1,92 @@
+{
+  "id": "highlighted_text",
+  "type": "SharedSlice",
+  "name": "HighlightedText",
+  "description": "HighlightedText",
+  "variations": [
+    {
+      "id": "information",
+      "name": "Information",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "HighlightedText",
+      "primary": {
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "single": "heading3",
+            "label": "Title",
+            "placeholder": "This is where it all begins..."
+          }
+        },
+        "content": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Content",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,preformatted,strong,em,hyperlink,list-item,o-list-item"
+          }
+        }
+      },
+      "items": {},
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    },
+    {
+      "id": "warning",
+      "name": "Warning",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "HighlightedText",
+      "primary": {
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "single": "heading3",
+            "label": "Title",
+            "placeholder": "This is where it all begins..."
+          }
+        },
+        "content": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Content",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,preformatted,strong,em,hyperlink,list-item,o-list-item"
+          }
+        }
+      },
+      "items": {},
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    },
+    {
+      "id": "update",
+      "name": "Update",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "HighlightedText",
+      "primary": {
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "single": "heading3",
+            "label": "Title",
+            "placeholder": "This is where it all begins..."
+          }
+        },
+        "content": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Content",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,preformatted,strong,em,hyperlink,list-item,o-list-item"
+          }
+        }
+      },
+      "items": {},
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    }
+  ]
+}

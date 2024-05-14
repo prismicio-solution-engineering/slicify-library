@@ -1,0 +1,302 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "simple",
+    "primary": {
+      "description": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading2",
+            "content": {
+              "text": "Want product news and updates?",
+              "spans": []
+            },
+            "direction": "ltr"
+          },
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Sign up for our newsletter.",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      },
+      "placeholder": {
+        "__TYPE__": "FieldContent",
+        "type": "Text",
+        "value": "Enter your email"
+      },
+      "subscribe_label": {
+        "__TYPE__": "FieldContent",
+        "type": "Text",
+        "value": "Subscribe"
+      },
+      "disclaimer": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "We care about your data. Read our privacy policy.",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": []
+      }
+    ]
+  },
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "withDetails",
+    "primary": {
+      "description": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Nostrud amet eu ullamco nisi aute in ad minim nostrud adipisicing velit quis. Duis tempor incididunt dolore.",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      },
+      "placeholder": {
+        "__TYPE__": "FieldContent",
+        "type": "Text",
+        "value": "Enter your email"
+      },
+      "subscribe_label": {
+        "__TYPE__": "FieldContent",
+        "type": "Text",
+        "value": "Subscribe"
+      },
+      "disclaimer": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "We care about your data. Read our privacy policy.",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      },
+      "title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading2",
+            "content": {
+              "text": "Subscribe to our newsletter.",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "icon",
+            {
+              "origin": {
+                "id": "U1iYwZ8Dx7k",
+                "url": "https://images.unsplash.com/photo-1557800636-894a64c1696f?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHw2fHxmcnVpdHxlbnwwfHx8fDE2ODIzNDQ0MTQ&ixlib=rb-4.0.3&q=85",
+                "width": 3337,
+                "height": 4171
+              },
+              "url": "https://images.unsplash.com/photo-1557800636-894a64c1696f?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHw2fHxmcnVpdHxlbnwwfHx8fDE2ODIzNDQ0MTQ&ixlib=rb-4.0.3&q=85&rect=702%2C1215%2C1929%2C1929&w=128&h=128",
+              "width": 128,
+              "height": 128,
+              "edit": {
+                "background": "transparent",
+                "zoom": 1.7300000000000004,
+                "crop": {
+                  "x": 702,
+                  "y": 1215
+                }
+              },
+              "credits": null,
+              "alt": null,
+              "__TYPE__": "ImageContent",
+              "thumbnails": {}
+            }
+          ],
+          [
+            "title",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Weekly articles",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "description",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Non laboris consequat cupidatat laborum magna. Eiusmod non irure cupidatat duis commodo amet.",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "title",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "No spam",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "description",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Officia excepteur ullamco ut sint duis proident non adipisicing. Voluptate incididunt anim.",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "icon",
+            {
+              "url": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHwyfHxmcnVpdHxlbnwwfHx8fDE2ODIzNDQ0MTQ&ixlib=rb-4.0.3&q=85&rect=1408%2C2704%2C4483%2C4483&w=128&h=128",
+              "origin": {
+                "id": "xnRg3xDcNnE",
+                "url": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHwyfHxmcnVpdHxlbnwwfHx8fDE2ODIzNDQ0MTQ&ixlib=rb-4.0.3&q=85",
+                "width": 7173,
+                "height": 10041
+              },
+              "width": 128,
+              "height": 128,
+              "edit": {
+                "background": "transparent",
+                "zoom": 1.6000446129823778,
+                "crop": {
+                  "x": 1408,
+                  "y": 2704
+                }
+              },
+              "credits": null,
+              "alt": null,
+              "__TYPE__": "ImageContent",
+              "thumbnails": {}
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "centered",
+    "primary": {
+      "description": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Reprehenderit ad esse et non officia in nulla. Id proident tempor incididunt nostrud nulla et culpa.",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      },
+      "placeholder": {
+        "__TYPE__": "FieldContent",
+        "type": "Text",
+        "value": "Enter your email"
+      },
+      "subscribe_label": {
+        "__TYPE__": "FieldContent",
+        "type": "Text",
+        "value": "Subscribe"
+      },
+      "disclaimer": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "We care about your data. Read our privacy policy.",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      },
+      "title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading2",
+            "content": {
+              "text": "Get notified when we’re launching.",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "uid": {
+      "__TYPE__": "UIDContent",
+      "value": "require"
+    },
+    "author_name": {
+      "__TYPE__": "FieldContent",
+      "value": "fast",
+      "type": "Text"
+    },
+    "author_role": {
+      "__TYPE__": "FieldContent",
+      "value": "tree",
+      "type": "Text"
+    },
+    "author_image": {
+      "__TYPE__": "ImageContent",
+      "origin": {
+        "id": "main",
+        "url": "https://images.unsplash.com/photo-1547082299-de196ea013d6",
+        "width": 4272,
+        "height": 2848
+      },
+      "url": "https://images.unsplash.com/photo-1547082299-de196ea013d6?rect=712%2C0%2C2848%2C2848&w=48&h=48",
+      "width": 48,
+      "height": 48,
+      "edit": {
+        "zoom": 1,
+        "crop": {
+          "x": 712,
+          "y": 0
+        },
+        "background": "transparent"
+      },
+      "thumbnails": {}
+    }
+  }
+]

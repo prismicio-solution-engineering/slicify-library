@@ -1,0 +1,73 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"anchor": {
+				"__TYPE__": "FieldContent",
+				"type": "Text",
+				"value": "job-list"
+			},
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "We’re always looking for awesome people to join us",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Veniam do et esse quis occaecat cupidatat amet consequat ullamco. Non culpa enim adipisicing consequat adipisicing consectetur sit reprehenderit culpa id sit occaecat cupidatat mollit."
+						}
+					}
+				]
+			},
+			"image": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea",
+					"width": 3500,
+					"height": 2338
+				},
+				"url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea?rect=666%2C0%2C2169%2C2338&w=512&h=552",
+				"width": 512,
+				"height": 552,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 666,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"credits": null,
+				"alt": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			},
+			"link_text": {
+				"__TYPE__": "FieldContent",
+				"type": "Text",
+				"value": "View all openings"
+			},
+			"link": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://twitter.com"
+				}
+			}
+		},
+		"items": []
+	}
+]

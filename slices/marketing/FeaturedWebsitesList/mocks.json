@@ -1,0 +1,92 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Previous"
+						}
+					}
+				]
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Mollit quis aliquip aute do adipisicing culpa voluptate exercitation fugiat. Veniam eiusmod pariatur nisi ullamco qui dolore nisi."
+						}
+					}
+				]
+			},
+			"anchor": {
+				"__TYPE__": "FieldContent",
+				"value": "copper",
+				"type": "Text"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "autoList",
+		"primary": {
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Explore game-changing Prismic websites",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Get inspired by the innovative approaches Prismic users are bringing to their work.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"anchor": {
+				"__TYPE__": "FieldContent",
+				"value": "enjoy",
+				"type": "Text"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"product",
+						{
+							"__TYPE__": "IntegrationFieldsContent",
+							"value": "integration-field-product-id"
+						}
+					]
+				]
+			}
+		]
+	}
+]

@@ -1,0 +1,179 @@
+{
+  "id": "pricing",
+  "type": "SharedSlice",
+  "name": "Pricing",
+  "description": "Pricing",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "Pricing",
+      "primary": {
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title",
+            "placeholder": "This is where it all begins...",
+            "allowTargetBlank": true,
+            "single": "heading2,strong,em"
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,strong,em"
+          }
+        },
+        "anchor": {
+          "type": "Text",
+          "config": { "label": "anchor", "placeholder": "optional" }
+        }
+      },
+      "items": {
+        "name": {
+          "type": "Text",
+          "config": { "label": "Name", "placeholder": "" }
+        },
+        "price": {
+          "type": "Text",
+          "config": { "label": "Price", "placeholder": "" }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,strong,em"
+          }
+        },
+        "register_link": {
+          "type": "Link",
+          "config": {
+            "label": "Register Link",
+            "placeholder": "",
+            "select": null
+          }
+        },
+        "features": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Features",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "strong,em,list-item"
+          }
+        },
+        "featured": {
+          "type": "Boolean",
+          "config": {
+            "label": "Featured",
+            "default_value": false,
+            "placeholder_true": "true",
+            "placeholder_false": "false"
+          }
+        }
+      },
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    },
+    {
+      "id": "withPromo",
+      "name": "With Promo",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "Pricing",
+      "primary": {
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title",
+            "placeholder": "This is where it all begins...",
+            "allowTargetBlank": true,
+            "single": "heading2,strong,em"
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,strong,em"
+          }
+        },
+        "promo_title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Promo Title",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "heading3,strong,em"
+          }
+        },
+        "promo_description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Promo Description",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,strong,em"
+          }
+        },
+        "promo_link_label": {
+          "type": "Text",
+          "config": { "label": "Promo Link Label", "placeholder": "" }
+        },
+        "promo_link": {
+          "type": "Link",
+          "config": { "label": "Promo Link", "placeholder": "", "select": null }
+        },
+        "anchor": {
+          "type": "Text",
+          "config": { "label": "anchor", "placeholder": "optional" }
+        }
+      },
+      "items": {
+        "name": {
+          "type": "Text",
+          "config": { "label": "Name", "placeholder": "" }
+        },
+        "price": {
+          "type": "Text",
+          "config": { "label": "Price", "placeholder": "" }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,strong,em"
+          }
+        },
+        "register_link": {
+          "type": "Link",
+          "config": {
+            "label": "Register Link",
+            "placeholder": "",
+            "select": null
+          }
+        },
+        "features": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Features",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "strong,em,list-item"
+          }
+        }
+      },
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    }
+  ]
+}

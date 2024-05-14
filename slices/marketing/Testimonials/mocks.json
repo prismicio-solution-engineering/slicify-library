@@ -1,0 +1,1343 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "scrollingCards",
+    "primary": {
+      "title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading2",
+            "content": {
+              "text": "Fallen"
+            }
+          }
+        ]
+      },
+      "description": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Our software is so simple that people can’t help but fall in love with it. Simplicity is easy when you just skip tons of mission-critical features.",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "quote",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "TaxPal is so easy to use I can’t help but wonder if it’s really doing the things the government expects me to do.",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Sheryl Berge",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author_role",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "CEO at Lynch LLC",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author_image",
+            {
+              "origin": {
+                "id": "pg_WCHWSdT8",
+                "url": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHw4fHxwZXJzb258ZW58MHx8fHwxNjgyMzY3ODQw&ixlib=rb-4.0.3&q=85",
+                "width": 3888,
+                "height": 5833
+              },
+              "url": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHw4fHxwZXJzb258ZW58MHx8fHwxNjgyMzY3ODQw&ixlib=rb-4.0.3&q=85&rect=0%2C973%2C3888%2C3888&w=56&h=56",
+              "width": 56,
+              "height": 56,
+              "edit": {
+                "background": "transparent",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 973
+                }
+              },
+              "credits": null,
+              "alt": null,
+              "__TYPE__": "ImageContent",
+              "thumbnails": {}
+            }
+          ]
+        ]
+      },
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "quote",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "I’m trying to get a hold of someone in support, I’m in a lot of trouble right now and they are saying it has something to do with my books. Please get back to me right away.",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Amy Hahn",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author_role",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Director at Velocity Industries",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author_image",
+            {
+              "url": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHwzfHxwZXJzb258ZW58MHx8fHwxNjgyMzY3ODQw&ixlib=rb-4.0.3&q=85&rect=0%2C1224%2C4912%2C4912&w=56&h=56",
+              "origin": {
+                "id": "QXevDflbl8A",
+                "url": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHwzfHxwZXJzb258ZW58MHx8fHwxNjgyMzY3ODQw&ixlib=rb-4.0.3&q=85",
+                "width": 4912,
+                "height": 7360
+              },
+              "width": 56,
+              "height": 56,
+              "edit": {
+                "background": "transparent",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 1224
+                }
+              },
+              "credits": null,
+              "alt": null,
+              "__TYPE__": "ImageContent",
+              "thumbnails": {}
+            }
+          ]
+        ]
+      },
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "quote",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "The best part about TaxPal is every time I pay my employees, my bank balance doesn’t go down like it used to. Looking forward to spending this extra cash when I figure out why my card is being declined.",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Leland Kiehn",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author_role",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Founder of Kiehn and Sons",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author_image",
+            {
+              "url": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHwyfHxwZXJzb258ZW58MHx8fHwxNjgyMzY3ODQw&ixlib=rb-4.0.3&q=85&rect=1000%2C0%2C4000%2C4000&w=56&h=56",
+              "origin": {
+                "id": "c_GmwfHBDzk",
+                "url": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHwyfHxwZXJzb258ZW58MHx8fHwxNjgyMzY3ODQw&ixlib=rb-4.0.3&q=85",
+                "width": 6000,
+                "height": 4000
+              },
+              "width": 56,
+              "height": 56,
+              "edit": {
+                "background": "transparent",
+                "zoom": 1,
+                "crop": {
+                  "x": 1000,
+                  "y": 0
+                }
+              },
+              "credits": null,
+              "alt": null,
+              "__TYPE__": "ImageContent",
+              "thumbnails": {}
+            }
+          ]
+        ]
+      },
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "quote",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "There are so many things I had to do with my old software that I just don’t do at all with TaxPal. Suspicious but I can’t say I don’t love it.",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Erin Powlowski",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author_role",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "COO at Armstrong Inc",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author_image",
+            {
+              "url": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHwxfHxwZXJzb258ZW58MHx8fHwxNjgyMzY3ODQw&ixlib=rb-4.0.3&q=85&rect=864%2C0%2C3456%2C3456&w=56&h=56",
+              "origin": {
+                "id": "rDEOVtE7vOs",
+                "url": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHwxfHxwZXJzb258ZW58MHx8fHwxNjgyMzY3ODQw&ixlib=rb-4.0.3&q=85",
+                "width": 5184,
+                "height": 3456
+              },
+              "width": 56,
+              "height": 56,
+              "edit": {
+                "background": "transparent",
+                "zoom": 1,
+                "crop": {
+                  "x": 864,
+                  "y": 0
+                }
+              },
+              "credits": null,
+              "alt": null,
+              "__TYPE__": "ImageContent",
+              "thumbnails": {}
+            }
+          ]
+        ]
+      },
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "quote",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "I used to have to remit tax to the EU and with TaxPal I somehow don’t have to do that anymore. Nervous to travel there now though.",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Peter Renolds",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author_role",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Founder of West Inc",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author_image",
+            {
+              "url": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHw0fHxwZXJzb258ZW58MHx8fHwxNjgyMzY3ODQw&ixlib=rb-4.0.3&q=85&rect=768%2C0%2C3072%2C3072&w=56&h=56",
+              "origin": {
+                "id": "mjRwhvqEC0U",
+                "url": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHw0fHxwZXJzb258ZW58MHx8fHwxNjgyMzY3ODQw&ixlib=rb-4.0.3&q=85",
+                "width": 4608,
+                "height": 3072
+              },
+              "width": 56,
+              "height": 56,
+              "edit": {
+                "background": "transparent",
+                "zoom": 1,
+                "crop": {
+                  "x": 768,
+                  "y": 0
+                }
+              },
+              "credits": null,
+              "alt": null,
+              "__TYPE__": "ImageContent",
+              "thumbnails": {}
+            }
+          ]
+        ]
+      },
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "quote",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "This is the fourth email I’ve sent to your support team. I am literally being held in jail for tax fraud. Please answer your damn emails, this is important.",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Amy Hahn",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author_role",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Director at Velocity Industries",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author_image",
+            {
+              "url": "https://images.unsplash.com/photo-1554151228-14d9def656e4?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHw2fHxwZXJzb258ZW58MHx8fHwxNjgyMzY3ODQw&ixlib=rb-4.0.3&q=85&rect=0%2C1008%2C4000%2C4000&w=56&h=56",
+              "origin": {
+                "id": "B4TjXnI0Y2c",
+                "url": "https://images.unsplash.com/photo-1554151228-14d9def656e4?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHw2fHxwZXJzb258ZW58MHx8fHwxNjgyMzY3ODQw&ixlib=rb-4.0.3&q=85",
+                "width": 4000,
+                "height": 6016
+              },
+              "width": 56,
+              "height": 56,
+              "edit": {
+                "background": "transparent",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 1008
+                }
+              },
+              "credits": null,
+              "alt": null,
+              "__TYPE__": "ImageContent",
+              "thumbnails": {}
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "twoColumnsWithSeparator",
+    "primary": {
+      "company_logo_column_1": {
+        "origin": {
+          "id": "main",
+          "url": "https://images.unsplash.com/photo-1471897488648-5eae4ac6686b",
+          "width": 3560,
+          "height": 5340
+        },
+        "url": "https://images.unsplash.com/photo-1471897488648-5eae4ac6686b?rect=0%2C0%2C3560%2C5340&w=32&h=48",
+        "width": 32,
+        "height": 48,
+        "edit": {
+          "zoom": 1,
+          "crop": {
+            "x": 0,
+            "y": 0
+          },
+          "background": "transparent"
+        },
+        "credits": null,
+        "alt": null,
+        "__TYPE__": "ImageContent",
+        "thumbnails": {}
+      },
+      "quote_column_1": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Elit quis officia dolor officia officia do reprehenderit commodo."
+            }
+          }
+        ]
+      },
+      "author_column_1": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Non in eiusmod labore do reprehenderit incididunt sit nisi. Enim elit cupidatat ipsum mollit fugiat voluptate irure adipisicing. Ipsum incididunt quis ipsum."
+            }
+          }
+        ]
+      },
+      "author_role_column_1": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Eu occaecat irure aute est esse enim et sunt consectetur proident dolore. Eiusmod anim laborum nostrud qui in officia incididunt."
+            }
+          }
+        ]
+      },
+      "author_image_column_1": {
+        "origin": {
+          "id": "main",
+          "url": "https://images.unsplash.com/photo-1531771686035-25f47595c87a",
+          "width": 3024,
+          "height": 3778
+        },
+        "url": "https://images.unsplash.com/photo-1531771686035-25f47595c87a?rect=0%2C377%2C3024%2C3024&w=56&h=56",
+        "width": 56,
+        "height": 56,
+        "edit": {
+          "zoom": 1,
+          "crop": {
+            "x": 0,
+            "y": 377
+          },
+          "background": "transparent"
+        },
+        "credits": null,
+        "alt": null,
+        "__TYPE__": "ImageContent",
+        "thumbnails": {}
+      },
+      "company_logo_column_2": {
+        "origin": {
+          "id": "main",
+          "url": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6",
+          "width": 3212,
+          "height": 3880
+        },
+        "url": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?rect=0%2C13%2C3212%2C3854&w=40&h=48",
+        "width": 40,
+        "height": 48,
+        "edit": {
+          "zoom": 1,
+          "crop": {
+            "x": 0,
+            "y": 13
+          },
+          "background": "transparent"
+        },
+        "credits": null,
+        "alt": null,
+        "__TYPE__": "ImageContent",
+        "thumbnails": {}
+      },
+      "quote_column_2": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Irure reprehenderit nulla incididunt ad est aliqua culpa elit et exercitation commodo."
+            }
+          }
+        ]
+      },
+      "author_column_2": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Aliquip ut consectetur in sint tempor. Et amet amet amet."
+            }
+          }
+        ]
+      },
+      "author_role_column_2": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Qui consequat id id tempor voluptate pariatur cupidatat dolor quis nisi velit nulla nisi ad duis."
+            }
+          }
+        ]
+      },
+      "author_image_column_2": {
+        "origin": {
+          "id": "main",
+          "url": "https://images.unsplash.com/photo-1587653915936-5623ea0b949a",
+          "width": 4000,
+          "height": 4000
+        },
+        "url": "https://images.unsplash.com/photo-1587653915936-5623ea0b949a?rect=0%2C0%2C4000%2C4000&w=56&h=56",
+        "width": 56,
+        "height": 56,
+        "edit": {
+          "zoom": 1,
+          "crop": {
+            "x": 0,
+            "y": 0
+          },
+          "background": "transparent"
+        },
+        "credits": null,
+        "alt": null,
+        "__TYPE__": "ImageContent",
+        "thumbnails": {}
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": []
+      }
+    ]
+  },
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "singleCentered",
+    "primary": {
+      "company_logo": {
+        "origin": {
+          "id": "main",
+          "url": "https://images.unsplash.com/photo-1494173853739-c21f58b16055",
+          "width": 3277,
+          "height": 4092
+        },
+        "url": "https://images.unsplash.com/photo-1494173853739-c21f58b16055?rect=19%2C0%2C3240%2C4092&w=38&h=48",
+        "width": 38,
+        "height": 48,
+        "edit": {
+          "zoom": 1,
+          "crop": {
+            "x": 19,
+            "y": 0
+          },
+          "background": "transparent"
+        },
+        "credits": null,
+        "alt": null,
+        "__TYPE__": "ImageContent",
+        "thumbnails": {}
+      },
+      "quote": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Id laborum magna minim sunt excepteur sit labore anim sit. Magna exercitation tempor do do culpa adipisicing elit quis voluptate Lorem."
+            }
+          }
+        ]
+      },
+      "author": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Exercitation magna proident dolor exercitation Lorem in mollit. Consectetur Lorem officia cillum enim adipisicing sunt qui."
+            }
+          }
+        ]
+      },
+      "author_role": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Culpa ullamco elit id laboris nostrud enim deserunt quis dolor irure."
+            }
+          }
+        ]
+      },
+      "author_image": {
+        "origin": {
+          "id": "main",
+          "url": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d",
+          "width": 4076,
+          "height": 2712
+        },
+        "url": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?rect=682%2C0%2C2712%2C2712&w=56&h=56",
+        "width": 56,
+        "height": 56,
+        "edit": {
+          "zoom": 1,
+          "crop": {
+            "x": 682,
+            "y": 0
+          },
+          "background": "transparent"
+        },
+        "credits": null,
+        "alt": null,
+        "__TYPE__": "ImageContent",
+        "thumbnails": {}
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": []
+      }
+    ]
+  },
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "singleWithLargeImage",
+    "primary": {
+      "quote": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Et exercitation dolor eu."
+            }
+          }
+        ]
+      },
+      "author": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Nulla aliqua sit anim voluptate ex et veniam occaecat dolore minim occaecat."
+            }
+          }
+        ]
+      },
+      "author_role": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Officia laboris est sunt mollit qui. Incididunt officia ea ullamco consectetur ea Lorem excepteur et exercitation et."
+            }
+          }
+        ]
+      },
+      "author_image": {
+        "origin": {
+          "id": "main",
+          "url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+          "width": 3882,
+          "height": 2584
+        },
+        "url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?rect=649%2C0%2C2584%2C2584&w=56&h=56",
+        "width": 56,
+        "height": 56,
+        "edit": {
+          "zoom": 1,
+          "crop": {
+            "x": 649,
+            "y": 0
+          },
+          "background": "transparent"
+        },
+        "credits": null,
+        "alt": null,
+        "__TYPE__": "ImageContent",
+        "thumbnails": {}
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": []
+      }
+    ]
+  },
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading2",
+            "content": {
+              "text": "Fallen"
+            }
+          }
+        ]
+      },
+      "description": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Our software is so simple that people can’t help but fall in love with it. Simplicity is easy when you just skip tons of mission-critical features.",
+              "spans": []
+            },
+            "direction": "ltr"
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "quote",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "TaxPal is so easy to use I can’t help but wonder if it’s really doing the things the government expects me to do.",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Sheryl Berge",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author_role",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "CEO at Lynch LLC",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author_image",
+            {
+              "origin": {
+                "id": "pg_WCHWSdT8",
+                "url": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHw4fHxwZXJzb258ZW58MHx8fHwxNjgyMzY3ODQw&ixlib=rb-4.0.3&q=85",
+                "width": 3888,
+                "height": 5833
+              },
+              "url": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHw4fHxwZXJzb258ZW58MHx8fHwxNjgyMzY3ODQw&ixlib=rb-4.0.3&q=85&rect=0%2C973%2C3888%2C3888&w=56&h=56",
+              "width": 56,
+              "height": 56,
+              "edit": {
+                "background": "transparent",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 973
+                }
+              },
+              "credits": null,
+              "alt": null,
+              "__TYPE__": "ImageContent",
+              "thumbnails": {}
+            }
+          ]
+        ]
+      },
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "quote",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "I’m trying to get a hold of someone in support, I’m in a lot of trouble right now and they are saying it has something to do with my books. Please get back to me right away.",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Amy Hahn",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author_role",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Director at Velocity Industries",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author_image",
+            {
+              "url": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHwzfHxwZXJzb258ZW58MHx8fHwxNjgyMzY3ODQw&ixlib=rb-4.0.3&q=85&rect=0%2C1224%2C4912%2C4912&w=56&h=56",
+              "origin": {
+                "id": "QXevDflbl8A",
+                "url": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHwzfHxwZXJzb258ZW58MHx8fHwxNjgyMzY3ODQw&ixlib=rb-4.0.3&q=85",
+                "width": 4912,
+                "height": 7360
+              },
+              "width": 56,
+              "height": 56,
+              "edit": {
+                "background": "transparent",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 1224
+                }
+              },
+              "credits": null,
+              "alt": null,
+              "__TYPE__": "ImageContent",
+              "thumbnails": {}
+            }
+          ]
+        ]
+      },
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "quote",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "The best part about TaxPal is every time I pay my employees, my bank balance doesn’t go down like it used to. Looking forward to spending this extra cash when I figure out why my card is being declined.",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Leland Kiehn",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author_role",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Founder of Kiehn and Sons",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author_image",
+            {
+              "url": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHwyfHxwZXJzb258ZW58MHx8fHwxNjgyMzY3ODQw&ixlib=rb-4.0.3&q=85&rect=1000%2C0%2C4000%2C4000&w=56&h=56",
+              "origin": {
+                "id": "c_GmwfHBDzk",
+                "url": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHwyfHxwZXJzb258ZW58MHx8fHwxNjgyMzY3ODQw&ixlib=rb-4.0.3&q=85",
+                "width": 6000,
+                "height": 4000
+              },
+              "width": 56,
+              "height": 56,
+              "edit": {
+                "background": "transparent",
+                "zoom": 1,
+                "crop": {
+                  "x": 1000,
+                  "y": 0
+                }
+              },
+              "credits": null,
+              "alt": null,
+              "__TYPE__": "ImageContent",
+              "thumbnails": {}
+            }
+          ]
+        ]
+      },
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "quote",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "There are so many things I had to do with my old software that I just don’t do at all with TaxPal. Suspicious but I can’t say I don’t love it.",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Erin Powlowski",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author_role",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "COO at Armstrong Inc",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author_image",
+            {
+              "url": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHwxfHxwZXJzb258ZW58MHx8fHwxNjgyMzY3ODQw&ixlib=rb-4.0.3&q=85&rect=864%2C0%2C3456%2C3456&w=56&h=56",
+              "origin": {
+                "id": "rDEOVtE7vOs",
+                "url": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHwxfHxwZXJzb258ZW58MHx8fHwxNjgyMzY3ODQw&ixlib=rb-4.0.3&q=85",
+                "width": 5184,
+                "height": 3456
+              },
+              "width": 56,
+              "height": 56,
+              "edit": {
+                "background": "transparent",
+                "zoom": 1,
+                "crop": {
+                  "x": 864,
+                  "y": 0
+                }
+              },
+              "credits": null,
+              "alt": null,
+              "__TYPE__": "ImageContent",
+              "thumbnails": {}
+            }
+          ]
+        ]
+      },
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "quote",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "I used to have to remit tax to the EU and with TaxPal I somehow don’t have to do that anymore. Nervous to travel there now though.",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Peter Renolds",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author_role",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Founder of West Inc",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author_image",
+            {
+              "url": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHw0fHxwZXJzb258ZW58MHx8fHwxNjgyMzY3ODQw&ixlib=rb-4.0.3&q=85&rect=768%2C0%2C3072%2C3072&w=56&h=56",
+              "origin": {
+                "id": "mjRwhvqEC0U",
+                "url": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHw0fHxwZXJzb258ZW58MHx8fHwxNjgyMzY3ODQw&ixlib=rb-4.0.3&q=85",
+                "width": 4608,
+                "height": 3072
+              },
+              "width": 56,
+              "height": 56,
+              "edit": {
+                "background": "transparent",
+                "zoom": 1,
+                "crop": {
+                  "x": 768,
+                  "y": 0
+                }
+              },
+              "credits": null,
+              "alt": null,
+              "__TYPE__": "ImageContent",
+              "thumbnails": {}
+            }
+          ]
+        ]
+      },
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "quote",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "This is the fourth email I’ve sent to your support team. I am literally being held in jail for tax fraud. Please answer your damn emails, this is important.",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Amy Hahn",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author_role",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Director at Velocity Industries",
+                    "spans": []
+                  },
+                  "direction": "ltr"
+                }
+              ]
+            }
+          ],
+          [
+            "author_image",
+            {
+              "url": "https://images.unsplash.com/photo-1554151228-14d9def656e4?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHw2fHxwZXJzb258ZW58MHx8fHwxNjgyMzY3ODQw&ixlib=rb-4.0.3&q=85&rect=0%2C1008%2C4000%2C4000&w=56&h=56",
+              "origin": {
+                "id": "B4TjXnI0Y2c",
+                "url": "https://images.unsplash.com/photo-1554151228-14d9def656e4?crop=entropy&cs=srgb&fm=jpg&ixid=MnwzMzc0NjN8MHwxfHNlYXJjaHw2fHxwZXJzb258ZW58MHx8fHwxNjgyMzY3ODQw&ixlib=rb-4.0.3&q=85",
+                "width": 4000,
+                "height": 6016
+              },
+              "width": 56,
+              "height": 56,
+              "edit": {
+                "background": "transparent",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 1008
+                }
+              },
+              "credits": null,
+              "alt": null,
+              "__TYPE__": "ImageContent",
+              "thumbnails": {}
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

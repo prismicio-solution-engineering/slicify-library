@@ -1,0 +1,379 @@
+{
+  "id": "testimonials",
+  "type": "SharedSlice",
+  "name": "Testimonials",
+  "description": "Testimonials",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "Testimonials",
+      "primary": {
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title",
+            "placeholder": "This is where it all begins...",
+            "allowTargetBlank": true,
+            "single": "heading2"
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          }
+        },
+        "anchor": {
+          "type": "Text",
+          "config": { "label": "anchor", "placeholder": "optional" }
+        }
+      },
+      "items": {
+        "quote": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Quote",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          }
+        },
+        "author": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Author",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          }
+        },
+        "author_role": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Author role",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          }
+        },
+        "author_image": {
+          "type": "Image",
+          "config": {
+            "label": "Author image",
+            "constraint": {
+              "width": 56,
+              "height": 56
+            },
+            "thumbnails": []
+          }
+        }
+      },
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    },
+    {
+      "id": "scrollingCards",
+      "name": "Scrolling cards",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "Testimonials",
+      "primary": {
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title",
+            "placeholder": "This is where it all begins...",
+            "allowTargetBlank": true,
+            "single": "heading2"
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          }
+        },
+        "anchor": {
+          "type": "Text",
+          "config": { "label": "anchor", "placeholder": "optional" }
+        }
+      },
+      "items": {
+        "quote": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Quote",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          }
+        },
+        "author": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Author",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          }
+        },
+        "author_role": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Author role",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          }
+        },
+        "author_image": {
+          "type": "Image",
+          "config": {
+            "label": "Author image",
+            "constraint": {
+              "width": 56,
+              "height": 56
+            },
+            "thumbnails": []
+          }
+        }
+      },
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    },
+    {
+      "id": "twoColumnsWithSeparator",
+      "name": "Two Columns With Separator",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "Testimonials",
+      "primary": {
+        "company_logo_column_1": {
+          "type": "Image",
+          "config": {
+            "label": "Company logo column 1",
+            "constraint": {
+              "height": 48
+            },
+            "thumbnails": []
+          }
+        },
+        "quote_column_1": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Quote column 1",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          }
+        },
+        "author_column_1": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Author column 1",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          }
+        },
+        "author_role_column_1": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Author role column 1",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          }
+        },
+        "author_image_column_1": {
+          "type": "Image",
+          "config": {
+            "label": "Author image column 1",
+            "constraint": {
+              "width": 56,
+              "height": 56
+            },
+            "thumbnails": []
+          }
+        },
+        "company_logo_column_2": {
+          "type": "Image",
+          "config": {
+            "label": "Company logo column 2",
+            "constraint": {
+              "height": 48
+            },
+            "thumbnails": []
+          }
+        },
+        "quote_column_2": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Quote column 2",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          }
+        },
+        "author_column_2": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Author column 2",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          }
+        },
+        "author_role_column_2": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Author role column 2",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          }
+        },
+        "author_image_column_2": {
+          "type": "Image",
+          "config": {
+            "label": "Author image column 2",
+            "constraint": {
+              "width": 56,
+              "height": 56
+            },
+            "thumbnails": []
+          }
+        },
+        "anchor": {
+          "type": "Text",
+          "config": { "label": "anchor", "placeholder": "optional" }
+        }
+      },
+      "items": {},
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    },
+    {
+      "id": "singleCentered",
+      "name": "Single Centered",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "Testimonials",
+      "primary": {
+        "company_logo": {
+          "type": "Image",
+          "config": {
+            "label": "Company logo",
+            "constraint": {
+              "height": 48
+            },
+            "thumbnails": []
+          }
+        },
+        "quote": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Quote",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          }
+        },
+        "author": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Author",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          }
+        },
+        "author_role": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Author role",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          }
+        },
+        "author_image": {
+          "type": "Image",
+          "config": {
+            "label": "Author image",
+            "constraint": {
+              "width": 56,
+              "height": 56
+            },
+            "thumbnails": []
+          }
+        },
+        "anchor": {
+          "type": "Text",
+          "config": { "label": "anchor", "placeholder": "optional" }
+        }
+      },
+      "items": {},
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    },
+    {
+      "id": "singleWithLargeImage",
+      "name": "Single With Large Image",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "Testimonials",
+      "primary": {
+        "quote": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Quote",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          }
+        },
+        "author": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Author",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          }
+        },
+        "author_role": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Author role",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          }
+        },
+        "author_image": {
+          "type": "Image",
+          "config": {
+            "label": "Author image",
+            "constraint": {
+              "width": 56,
+              "height": 56
+            },
+            "thumbnails": []
+          }
+        },
+        "anchor": {
+          "type": "Text",
+          "config": { "label": "anchor", "placeholder": "optional" }
+        }
+      },
+      "items": {},
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    }
+  ]
+}

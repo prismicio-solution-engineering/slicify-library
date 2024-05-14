@@ -1,0 +1,197 @@
+{
+  "id": "form",
+  "type": "SharedSlice",
+  "name": "Form",
+  "description": "Form",
+  "variations": [
+    {
+      "id": "simple",
+      "name": "Simple",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "Form",
+      "primary": {
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "This is where it all begins...",
+            "allowTargetBlank": true,
+            "multi": "heading2,paragraph,strong,em"
+          }
+        },
+        "placeholder": {
+          "type": "Text",
+          "config": {
+            "label": "Placeholder",
+            "placeholder": ""
+          }
+        },
+        "subscribe_label": {
+          "type": "Text",
+          "config": {
+            "label": "Subscribe Label",
+            "placeholder": ""
+          }
+        },
+        "disclaimer": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Disclaimer",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,hyperlink,strong,em"
+          }
+        },
+        "anchor": {
+          "type": "Text",
+          "config": { "label": "anchor", "placeholder": "optional" }
+        }
+      },
+      "items": {},
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    },
+    {
+      "id": "withDetails",
+      "name": "With Details",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "Form",
+      "primary": {
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "heading2,strong,em"
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "This is where it all begins...",
+            "allowTargetBlank": true,
+            "multi": "paragraph,strong,em"
+          }
+        },
+        "placeholder": {
+          "type": "Text",
+          "config": {
+            "label": "Placeholder",
+            "placeholder": ""
+          }
+        },
+        "subscribe_label": {
+          "type": "Text",
+          "config": {
+            "label": "Subscribe Label",
+            "placeholder": ""
+          }
+        },
+        "disclaimer": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Disclaimer",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,hyperlink,strong,em"
+          }
+        },
+        "anchor": {
+          "type": "Text",
+          "config": { "label": "anchor", "placeholder": "optional" }
+        }
+      },
+      "items": {
+        "icon": {
+          "type": "Image",
+          "config": {
+            "label": "Icon",
+            "constraint": {
+              "width": 128,
+              "height": 128
+            },
+            "thumbnails": []
+          }
+        },
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "strong,em,paragraph"
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,strong,em"
+          }
+        }
+      },
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    },
+    {
+      "id": "centered",
+      "name": "Centered",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "Form",
+      "primary": {
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "strong,em,heading2"
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "This is where it all begins...",
+            "allowTargetBlank": true,
+            "multi": "paragraph,strong,em"
+          }
+        },
+        "placeholder": {
+          "type": "Text",
+          "config": {
+            "label": "Placeholder",
+            "placeholder": ""
+          }
+        },
+        "subscribe_label": {
+          "type": "Text",
+          "config": {
+            "label": "Subscribe Label",
+            "placeholder": ""
+          }
+        },
+        "disclaimer": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Disclaimer",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,strong,em,hyperlink"
+          }
+        },
+        "anchor": {
+          "type": "Text",
+          "config": { "label": "anchor", "placeholder": "optional" }
+        }
+      },
+      "items": {},
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    }
+  ]
+}

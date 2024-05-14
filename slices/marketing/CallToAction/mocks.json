@@ -1,0 +1,262 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Claws"
+						}
+					}
+				]
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Sint ea aliqua incididunt et aliquip adipisicing ad velit incididunt nulla velit laborum sint voluptate. Sit nulla ullamco duis exercitation ex eiusmod voluptate magna ad qui culpa excepteur."
+						}
+					}
+				]
+			},
+			"cta_label": {
+				"__TYPE__": "FieldContent",
+				"value": "education",
+				"type": "Text"
+			},
+			"cta_link": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://twitter.com"
+				}
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "whiteBackground",
+		"primary": {
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Riding"
+						}
+					}
+				]
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Est occaecat dolor labore pariatur amet officia officia deserunt cupidatat quis duis pariatur. Et duis non do esse quis consectetur sit esse in id. Dolor cupidatat mollit veniam cupidatat."
+						}
+					}
+				]
+			},
+			"cta_label": {
+				"__TYPE__": "FieldContent",
+				"value": "understanding",
+				"type": "Text"
+			},
+			"cta_link": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "https://prismic.io"
+				}
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "withImageRight",
+		"primary": {
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Faster"
+						}
+					}
+				]
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Enim dolor do adipisicing ipsum excepteur sunt Lorem dolor ullamco. Pariatur id incididunt dolore nisi nostrud do veniam sit. Irure non incididunt occaecat aliqua ad et Lorem non nostrud magna excepteur eiusmod aliquip."
+						}
+					}
+				]
+			},
+			"featured_image": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1587840171670-8b850147754e",
+					"width": 4480,
+					"height": 4480
+				},
+				"url": "https://images.unsplash.com/photo-1587840171670-8b850147754e?rect=0%2C729%2C4480%2C3021&w=912&h=615",
+				"width": 912,
+				"height": 615,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 729
+					},
+					"background": "transparent"
+				},
+				"credits": null,
+				"alt": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"cta_label",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "coal",
+							"type": "Text"
+						}
+					],
+					[
+						"cta_link",
+						{
+							"__TYPE__": "LinkContent",
+							"value": {
+								"__TYPE__": "ExternalLink",
+								"url": "http://twitter.com"
+							}
+						}
+					],
+					[
+						"cta_type",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "Primary",
+							"type": "Select"
+						}
+					]
+				]
+			}
+		]
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "withImageLeft",
+		"primary": {
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Almost"
+						}
+					}
+				]
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Incididunt qui consequat occaecat dolor dolore velit reprehenderit magna duis in."
+						}
+					}
+				]
+			},
+			"featured_image": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1560457079-9a6532ccb118",
+					"width": 4160,
+					"height": 3120
+				},
+				"url": "https://images.unsplash.com/photo-1560457079-9a6532ccb118?rect=0%2C328%2C4160%2C2463&w=1824&h=1080",
+				"width": 1824,
+				"height": 1080,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 328
+					},
+					"background": "transparent"
+				},
+				"credits": null,
+				"alt": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"cta_label",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "arrive",
+							"type": "Text"
+						}
+					],
+					[
+						"cta_link",
+						{
+							"__TYPE__": "LinkContent",
+							"value": {
+								"__TYPE__": "ExternalLink",
+								"url": "http://twitter.com"
+							}
+						}
+					],
+					[
+						"cta_type",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "Primary",
+							"type": "Select"
+						}
+					]
+				]
+			}
+		]
+	}
+]

@@ -1,0 +1,116 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "information",
+		"primary": {
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading3",
+						"content": {
+							"text": "This tutorial will use the `pages/` directory method.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"content": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Instead of sending an empty HTML document, it’s better to have all of the content already baked into the HTML when you send it to the user. This way if JavaScript takes a while to load or fails outright, users (and Google) can still read and access your content.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "warning",
+		"primary": {
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading3",
+						"content": {
+							"text": "This tutorial will use the `pages/` directory method.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"content": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Instead of sending an empty HTML document, it’s better to have all of the content already baked into the HTML when you send it to the user. This way if JavaScript takes a while to load or fails outright, users (and Google) can still read and access your content.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "update",
+		"primary": {
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading3",
+						"content": {
+							"text": "This tutorial will use the `pages/` directory method.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"content": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Instead of sending an empty HTML document, it’s better to have all of the content already baked into the HTML when you send it to the user. This way if JavaScript takes a while to load or fails outright, users (and Google) can still read and access your content.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	}
+]

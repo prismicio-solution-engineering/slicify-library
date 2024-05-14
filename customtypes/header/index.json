@@ -1,0 +1,120 @@
+{
+  "id": "header",
+  "label": "Header",
+  "repeatable": false,
+  "status": true,
+  "format": "custom",
+  "json": {
+    "Main": {
+      "logo": {
+        "type": "Image",
+        "config": {
+          "label": "Logo",
+          "constraint": {
+            "width": 436,
+            "height": 160
+          },
+          "thumbnails": []
+        }
+      },
+      "left_side_links": {
+        "type": "Group",
+        "config": {
+          "label": "Left Side Links",
+          "fields": {
+            "label": {
+              "type": "StructuredText",
+              "config": {
+                "label": "Label",
+                "placeholder": "",
+                "allowTargetBlank": true,
+                "single": "paragraph,strong,em"
+              }
+            },
+            "link": {
+              "type": "Link",
+              "config": {
+                "label": "Link",
+                "placeholder": "",
+                "select": null
+              }
+            },
+            "anchor": {
+              "type": "Text",
+              "config": {
+                "label": "Anchor",
+                "placeholder": ""
+              }
+            },
+            "link_type": {
+              "type": "Select",
+              "config": {
+                "label": "Link Type",
+                "placeholder": "",
+                "options": ["Text Link", "Button"],
+                "default_value": "Text Link"
+              }
+            }
+          }
+        }
+      },
+      "right_side_links": {
+        "type": "Group",
+        "config": {
+          "label": "Right Side Links",
+          "fields": {
+            "label": {
+              "type": "StructuredText",
+              "config": {
+                "label": "Label",
+                "placeholder": "",
+                "allowTargetBlank": true,
+                "single": "paragraph,strong,em"
+              }
+            },
+            "link": {
+              "type": "Link",
+              "config": {
+                "label": "Link",
+                "placeholder": "",
+                "select": null
+              }
+            },
+            "anchor": {
+              "type": "Text",
+              "config": {
+                "label": "Anchor",
+                "placeholder": ""
+              }
+            },
+            "link_type": {
+              "type": "Select",
+              "config": {
+                "label": "Link Type",
+                "placeholder": "",
+                "options": ["Text Link", "Button"],
+                "default_value": "Text Link"
+              }
+            }
+          }
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {}
+        }
+      }
+    },
+    "Search Modal": {
+      "modal_title": {
+        "type": "Text",
+        "config": {
+          "label": "Modal title",
+          "placeholder": ""
+        }
+      }
+    }
+  }
+}

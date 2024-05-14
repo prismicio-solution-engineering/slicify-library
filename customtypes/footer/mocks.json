@@ -1,0 +1,118 @@
+[
+  {
+    "logo": {
+      "__TYPE__": "ImageContent",
+      "origin": {
+        "id": "main",
+        "url": "https://images.unsplash.com/photo-1494173853739-c21f58b16055",
+        "width": 3277,
+        "height": 4092
+      },
+      "url": "https://images.unsplash.com/photo-1494173853739-c21f58b16055?rect=0%2C1445%2C3277%2C1203&w=436&h=160",
+      "width": 436,
+      "height": 160,
+      "edit": {
+        "zoom": 1,
+        "crop": {
+          "x": 0,
+          "y": 1445
+        },
+        "background": "transparent"
+      },
+      "thumbnails": {}
+    },
+    "links": {
+      "__TYPE__": "GroupContentType",
+      "value": [
+        {
+          "__TYPE__": "GroupItemContent",
+          "value": [
+            [
+              "link",
+              {
+                "__TYPE__": "LinkContent",
+                "value": {
+                  "__TYPE__": "ExternalLink",
+                  "url": "http://google.com"
+                }
+              }
+            ],
+            [
+              "label",
+              {
+                "__TYPE__": "StructuredTextContent",
+                "value": [
+                  {
+                    "type": "paragraph",
+                    "content": {
+                      "text": "Mollit cupidatat duis cillum eu dolor pariatur reprehenderit duis ex occaecat do officia laboris."
+                    }
+                  }
+                ]
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    "social_links": {
+      "__TYPE__": "GroupContentType",
+      "value": [
+        {
+          "__TYPE__": "GroupItemContent",
+          "value": [
+            [
+              "icon",
+              {
+                "__TYPE__": "ImageContent",
+                "origin": {
+                  "id": "main",
+                  "url": "https://images.unsplash.com/photo-1606248897732-2c5ffe759c04",
+                  "width": 4000,
+                  "height": 4000
+                },
+                "url": "https://images.unsplash.com/photo-1606248897732-2c5ffe759c04?rect=0%2C0%2C4000%2C4000&w=128&h=128",
+                "width": 128,
+                "height": 128,
+                "edit": {
+                  "zoom": 1,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "background": "transparent"
+                },
+                "thumbnails": {}
+              }
+            ],
+            [
+              "link",
+              {
+                "__TYPE__": "LinkContent",
+                "value": {
+                  "__TYPE__": "ExternalLink",
+                  "url": "https://slicemachine.dev"
+                }
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    "copyright": {
+      "__TYPE__": "StructuredTextContent",
+      "value": [
+        {
+          "type": "paragraph",
+          "content": {
+            "text": "Cupidatat magna qui nisi dolore laboris."
+          }
+        }
+      ]
+    },
+    "slices": {
+      "__TYPE__": "SliceContentType",
+      "value": []
+    }
+  }
+]

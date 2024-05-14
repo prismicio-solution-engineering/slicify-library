@@ -1,0 +1,6 @@
+{
+    "libraries": ["./slices/marketing","./slices/blog"],
+    "adapter": "@slicemachine/adapter-next",
+    "repositoryName": "slicify-v2-demo",
+    "localSliceSimulatorURL": "http://localhost:3000/slice-simulator"
+  }

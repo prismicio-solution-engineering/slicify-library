@@ -1,0 +1,43 @@
+{
+  "id": "author",
+  "label": "Author",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "uid": {
+        "type": "UID",
+        "config": {
+          "label": "Uid",
+          "placeholder": ""
+        }
+      },
+      "author_name": {
+        "type": "Text",
+        "config": {
+          "label": "Author Name",
+          "placeholder": ""
+        }
+      },
+      "author_role": {
+        "type": "Text",
+        "config": {
+          "label": "Author Role",
+          "placeholder": ""
+        }
+      },
+      "author_image": {
+        "type": "Image",
+        "config": {
+          "label": "Author Image",
+          "constraint": {
+            "width": 48,
+            "height": 48
+          },
+          "thumbnails": []
+        }
+      }
+    }
+  },
+  "format": "custom"
+}
