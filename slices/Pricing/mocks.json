@@ -1,0 +1,702 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Simple pricing, for everyone.",
+							"spans": [
+								{
+									"type": "strong",
+									"start": 16,
+									"end": 28
+								}
+							]
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "It doesn’t matter what size your business is, our software will work well for you.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"name",
+						{
+							"__TYPE__": "FieldContent",
+							"type": "Text",
+							"value": "Free"
+						}
+					],
+					[
+						"price",
+						{
+							"__TYPE__": "FieldContent",
+							"type": "Text",
+							"value": "Starter"
+						}
+					],
+					[
+						"description",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Modi dolorem expedita deleniti. Corporis iste qui inventore pariatur adipisci vitae.",
+										"spans": []
+									},
+									"direction": "ltr"
+								}
+							]
+						}
+					],
+					[
+						"features",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "list-item",
+									"content": {
+										"text": "1 User",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited API Calls",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited Documents",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited Custom Types",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited Locales",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited Assets",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited Image Optimizations",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "100 GB of Built-in CDN",
+										"spans": []
+									},
+									"direction": "ltr"
+								}
+							]
+						}
+					]
+				]
+			},
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"name",
+						{
+							"__TYPE__": "FieldContent",
+							"type": "Text",
+							"value": "Free"
+						}
+					],
+					[
+						"price",
+						{
+							"__TYPE__": "FieldContent",
+							"type": "Text",
+							"value": "Starter"
+						}
+					],
+					[
+						"description",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Modi dolorem expedita deleniti. Corporis iste qui inventore pariatur adipisci vitae.",
+										"spans": []
+									},
+									"direction": "ltr"
+								}
+							]
+						}
+					],
+					[
+						"register_link",
+						{
+							"__TYPE__": "LinkContent",
+							"value": {
+								"__TYPE__": "ExternalLink",
+								"url": "http://twitter.com"
+							}
+						}
+					],
+					[
+						"features",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "list-item",
+									"content": {
+										"text": "1 User",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited API Calls",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited Documents",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited Custom Types",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited Locales",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited Assets",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited Image Optimizations",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "100 GB of Built-in CDN",
+										"spans": []
+									},
+									"direction": "ltr"
+								}
+							]
+						}
+					],
+					[
+						"featured",
+						{
+							"__TYPE__": "BooleanContent",
+							"value": true
+						}
+					]
+				]
+			},
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"features",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "list-item",
+									"content": {
+										"text": "1 User",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited API Calls",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited Documents",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited Custom Types",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited Locales",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited Assets",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited Image Optimizations",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "100 GB of Built-in CDN",
+										"spans": []
+									},
+									"direction": "ltr"
+								}
+							]
+						}
+					],
+					[
+						"description",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Modi dolorem expedita deleniti. Corporis iste qui inventore pariatur adipisci vitae.",
+										"spans": []
+									},
+									"direction": "ltr"
+								}
+							]
+						}
+					],
+					[
+						"price",
+						{
+							"__TYPE__": "FieldContent",
+							"type": "Text",
+							"value": "Enterprise"
+						}
+					],
+					[
+						"name",
+						{
+							"__TYPE__": "FieldContent",
+							"type": "Text",
+							"value": "Paid"
+						}
+					]
+				]
+			}
+		]
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "withPromo",
+		"primary": {
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Simple pricing, for everyone.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "It doesn’t matter what size your business is, our software won’t work well for you.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"promo_title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading3",
+						"content": {
+							"text": "Discounted",
+							"spans": [
+								{
+									"type": "strong",
+									"start": 0,
+									"end": 10
+								}
+							]
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"promo_description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Dolor dolores repudiandae doloribus. Rerum sunt aut eum. Odit omnis non voluptatem sunt eos nostrum.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"promo_link_label": {
+				"__TYPE__": "FieldContent",
+				"type": "Text",
+				"value": "Buy discounted license"
+			},
+			"promo_link": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://twitter.com"
+				}
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"name",
+						{
+							"__TYPE__": "FieldContent",
+							"type": "Text",
+							"value": "Starter"
+						}
+					],
+					[
+						"price",
+						{
+							"__TYPE__": "FieldContent",
+							"type": "Text",
+							"value": "$9"
+						}
+					],
+					[
+						"description",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Good for anyone who is self-employed and just getting started.",
+										"spans": []
+									},
+									"direction": "ltr"
+								}
+							]
+						}
+					],
+					[
+						"register_link",
+						{
+							"__TYPE__": "LinkContent",
+							"value": {
+								"__TYPE__": "ExternalLink",
+								"url": "http://twitter.com"
+							}
+						}
+					],
+					[
+						"features",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "list-item",
+									"content": {
+										"text": "1 User",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited API Calls",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited Documents",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited Custom Types",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited Locales",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited Assets",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited Image Optimizations",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "100 GB of Built-in CDN",
+										"spans": []
+									},
+									"direction": "ltr"
+								}
+							]
+						}
+					]
+				]
+			},
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"price",
+						{
+							"__TYPE__": "FieldContent",
+							"type": "Text",
+							"value": "$15"
+						}
+					],
+					[
+						"name",
+						{
+							"__TYPE__": "FieldContent",
+							"type": "Text",
+							"value": "Small business"
+						}
+					],
+					[
+						"description",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Explicabo quo fugit vel facere ullam corrupti non dolores. Expedita eius sit sequi.",
+										"spans": []
+									},
+									"direction": "ltr"
+								}
+							]
+						}
+					],
+					[
+						"register_link",
+						{
+							"__TYPE__": "LinkContent",
+							"value": {
+								"__TYPE__": "ExternalLink",
+								"url": "http://twitter.com"
+							}
+						}
+					],
+					[
+						"features",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "list-item",
+									"content": {
+										"text": "1 User",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited API Calls",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited Documents",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited Custom Types",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited Locales",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited Assets",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "Unlimited Image Optimizations",
+										"spans": []
+									},
+									"direction": "ltr"
+								},
+								{
+									"type": "list-item",
+									"content": {
+										"text": "100 GB of Built-in CDN",
+										"spans": []
+									},
+									"direction": "ltr"
+								}
+							]
+						}
+					]
+				]
+			}
+		]
+	}
+]

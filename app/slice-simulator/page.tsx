@@ -3,8 +3,7 @@
 import { SliceSimulator } from "@slicemachine/adapter-next/simulator";
 import { SliceZone } from "@prismicio/react";
 
-import { components as mktComponents } from "../../slices/marketing";
-import { components as blogComponents } from "../../slices/blog";
+import { components } from "../../slices";
 
 export default function SliceSimulatorPage() {
   return (
@@ -12,7 +11,7 @@ export default function SliceSimulatorPage() {
       sliceZone={(props) => (
         <SliceZone
           {...props}
-          components={{ ...mktComponents, ...blogComponents }}
+          components={components}
         />
       )}
     />

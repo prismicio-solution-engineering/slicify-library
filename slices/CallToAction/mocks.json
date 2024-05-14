@@ -20,15 +20,17 @@
 					{
 						"type": "paragraph",
 						"content": {
-							"text": "Sint ea aliqua incididunt et aliquip adipisicing ad velit incididunt nulla velit laborum sint voluptate. Sit nulla ullamco duis exercitation ex eiusmod voluptate magna ad qui culpa excepteur."
-						}
+							"text": "Sint ea aliqua incididunt et aliquip adipisicing ad velit incididunt nulla velit laborum sint voluptate. Sit nulla ullamco duis exercitation ex eiusmod voluptate magna ad qui culpa excepteur.",
+							"spans": []
+						},
+						"direction": "ltr"
 					}
 				]
 			},
 			"cta_label": {
 				"__TYPE__": "FieldContent",
-				"value": "education",
-				"type": "Text"
+				"type": "Text",
+				"value": "Click here"
 			},
 			"cta_link": {
 				"__TYPE__": "LinkContent",
@@ -73,8 +75,8 @@
 			},
 			"cta_label": {
 				"__TYPE__": "FieldContent",
-				"value": "understanding",
-				"type": "Text"
+				"type": "Text",
+				"value": "Click here"
 			},
 			"cta_link": {
 				"__TYPE__": "LinkContent",
@@ -101,8 +103,10 @@
 					{
 						"type": "heading2",
 						"content": {
-							"text": "Faster"
-						}
+							"text": "Code Faster",
+							"spans": []
+						},
+						"direction": "ltr"
 					}
 				]
 			},
@@ -112,8 +116,10 @@
 					{
 						"type": "paragraph",
 						"content": {
-							"text": "Enim dolor do adipisicing ipsum excepteur sunt Lorem dolor ullamco. Pariatur id incididunt dolore nisi nostrud do veniam sit. Irure non incididunt occaecat aliqua ad et Lorem non nostrud magna excepteur eiusmod aliquip."
-						}
+							"text": "Enim dolor do adipisicing ipsum excepteur sunt Lorem dolor ullamco. Pariatur id incididunt dolore nisi nostrud do veniam sit. Irure non incididunt occaecat aliqua ad et Lorem non nostrud magna excepteur eiusmod aliquip.",
+							"spans": []
+						},
+						"direction": "ltr"
 					}
 				]
 			},
@@ -149,8 +155,8 @@
 						"cta_label",
 						{
 							"__TYPE__": "FieldContent",
-							"value": "coal",
-							"type": "Text"
+							"type": "Text",
+							"value": "Check it out"
 						}
 					],
 					[
@@ -169,6 +175,27 @@
 							"__TYPE__": "FieldContent",
 							"value": "Primary",
 							"type": "Select"
+						}
+					]
+				]
+			},
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"cta_label",
+						{
+							"__TYPE__": "FieldContent",
+							"type": "Text",
+							"value": "Read more"
+						}
+					],
+					[
+						"cta_type",
+						{
+							"__TYPE__": "FieldContent",
+							"type": "Select",
+							"value": "Secondary"
 						}
 					]
 				]
@@ -230,14 +257,6 @@
 				"__TYPE__": "GroupItemContent",
 				"value": [
 					[
-						"cta_label",
-						{
-							"__TYPE__": "FieldContent",
-							"value": "arrive",
-							"type": "Text"
-						}
-					],
-					[
 						"cta_link",
 						{
 							"__TYPE__": "LinkContent",
@@ -253,6 +272,14 @@
 							"__TYPE__": "FieldContent",
 							"value": "Primary",
 							"type": "Select"
+						}
+					],
+					[
+						"cta_label",
+						{
+							"__TYPE__": "FieldContent",
+							"type": "Text",
+							"value": "Click me"
 						}
 					]
 				]

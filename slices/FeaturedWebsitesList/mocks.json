@@ -1,45 +1,6 @@
 [
 	{
 		"__TYPE__": "SharedSliceContent",
-		"variation": "default",
-		"primary": {
-			"title": {
-				"__TYPE__": "StructuredTextContent",
-				"value": [
-					{
-						"type": "heading2",
-						"content": {
-							"text": "Previous"
-						}
-					}
-				]
-			},
-			"description": {
-				"__TYPE__": "StructuredTextContent",
-				"value": [
-					{
-						"type": "paragraph",
-						"content": {
-							"text": "Mollit quis aliquip aute do adipisicing culpa voluptate exercitation fugiat. Veniam eiusmod pariatur nisi ullamco qui dolore nisi."
-						}
-					}
-				]
-			},
-			"anchor": {
-				"__TYPE__": "FieldContent",
-				"value": "copper",
-				"type": "Text"
-			}
-		},
-		"items": [
-			{
-				"__TYPE__": "GroupItemContent",
-				"value": []
-			}
-		]
-	},
-	{
-		"__TYPE__": "SharedSliceContent",
 		"variation": "autoList",
 		"primary": {
 			"title": {

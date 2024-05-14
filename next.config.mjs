@@ -12,9 +12,15 @@ const nextConfig = async () => {
       loader: "imgix",
       path: "https://images.prismic.io/",
     },
-    // typescript: {
-    //   ignoreBuildErrors: true,
-    // },
+    async redirects() {
+      return [
+        {
+          source: '/',
+          destination: '/slice-library',
+          permanent: true,
+        },
+      ]
+    },
   };
 };
 

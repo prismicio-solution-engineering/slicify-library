@@ -1,11 +1,8 @@
 import * as fs from "node:fs/promises";
 import * as path from "node:path";
 import { Metadata } from "next";
-import {
-  SharedSlice,
-} from "@prismicio/types-internal/lib/customtypes";
+import { SharedSlice } from "@prismicio/types-internal/lib/customtypes";
 import { SharedSliceContent } from "@prismicio/types-internal/lib/content";
-import React from "react";
 
 import { SliceLibrary } from "./SliceLibrary";
 

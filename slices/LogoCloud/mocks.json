@@ -1,0 +1,453 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Trusted by these six companies so far"
+						}
+					}
+				]
+			},
+			"dark_mode": {
+				"__TYPE__": "BooleanContent",
+				"value": false
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"logo",
+						{
+							"__TYPE__": "ImageContent",
+							"url": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMXx8YXBwbGV8ZW58MHx8fHwxNzE1Njg3MDE2fDA&ixlib=rb-4.0.3&q=85&rect=1030%2C805%2C4079%2C2719&w=72&h=48",
+							"alt": "red apple on white background",
+							"origin": {
+								"id": "rxN2MRdFJVg",
+								"url": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMXx8YXBwbGV8ZW58MHx8fHwxNzE1Njg3MDE2fDA&ixlib=rb-4.0.3&q=85",
+								"width": 6240,
+								"height": 4160
+							},
+							"width": 72,
+							"height": 48,
+							"edit": {
+								"background": "transparent",
+								"zoom": 1.529999999999999,
+								"crop": {
+									"x": 1030,
+									"y": 805
+								}
+							},
+							"thumbnails": {}
+						}
+					]
+				]
+			},
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"logo",
+						{
+							"__TYPE__": "ImageContent",
+							"url": "https://images.unsplash.com/photo-1675584357946-005bfd9442cf?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw5fHxyZWQlMjBhcHBsZSUyMG9uJTIwd2hpdGUlMjBiYWNrZ3JvdW5kfGVufDB8fHx8MTcxNTY4NzA0NXww&ixlib=rb-4.0.3&q=85&rect=305%2C112%2C4976%2C3211&w=74&h=48",
+							"alt": "a single cherry with a stem on a white background",
+							"origin": {
+								"id": "ZMxHvB9J7YU",
+								"url": "https://images.unsplash.com/photo-1675584357946-005bfd9442cf?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw5fHxyZWQlMjBhcHBsZSUyMG9uJTIwd2hpdGUlMjBiYWNrZ3JvdW5kfGVufDB8fHx8MTcxNTY4NzA0NXww&ixlib=rb-4.0.3&q=85",
+								"width": 5548,
+								"height": 3580
+							},
+							"width": 74,
+							"height": 48,
+							"edit": {
+								"background": "transparent",
+								"zoom": 1.1149999999999989,
+								"crop": {
+									"x": 305,
+									"y": 112
+								}
+							},
+							"thumbnails": {}
+						}
+					]
+				]
+			},
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"logo",
+						{
+							"__TYPE__": "ImageContent",
+							"url": "https://images.unsplash.com/photo-1669295456118-e5982337c8d4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwyNXx8cmVkJTIwYXBwbGUlMjBvbiUyMHdoaXRlJTIwYmFja2dyb3VuZHxlbnwwfHx8fDE3MTU2ODcwNDV8MA&ixlib=rb-4.0.3&q=85&rect=1399%2C1180%2C4222%2C3167&w=64&h=48",
+							"alt": "a red apple with a stem",
+							"origin": {
+								"id": "tP5NLIpSmhc",
+								"url": "https://images.unsplash.com/photo-1669295456118-e5982337c8d4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwyNXx8cmVkJTIwYXBwbGUlMjBvbiUyMHdoaXRlJTIwYmFja2dyb3VuZHxlbnwwfHx8fDE3MTU2ODcwNDV8MA&ixlib=rb-4.0.3&q=85",
+								"width": 7093,
+								"height": 5320
+							},
+							"width": 64,
+							"height": 48,
+							"edit": {
+								"background": "transparent",
+								"zoom": 1.679999999999998,
+								"crop": {
+									"x": 1399,
+									"y": 1180
+								}
+							},
+							"thumbnails": {}
+						}
+					]
+				]
+			},
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"logo",
+						{
+							"__TYPE__": "ImageContent",
+							"url": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMXx8YXBwbGV8ZW58MHx8fHwxNzE1Njg3MDE2fDA&ixlib=rb-4.0.3&q=85&rect=1219%2C830%2C3975%2C2650&w=72&h=48",
+							"alt": "red apple on white background",
+							"origin": {
+								"id": "rxN2MRdFJVg",
+								"url": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMXx8YXBwbGV8ZW58MHx8fHwxNzE1Njg3MDE2fDA&ixlib=rb-4.0.3&q=85",
+								"width": 6240,
+								"height": 4160
+							},
+							"width": 72,
+							"height": 48,
+							"edit": {
+								"background": "transparent",
+								"zoom": 1.5699999999999987,
+								"crop": {
+									"x": 1219,
+									"y": 830
+								}
+							},
+							"thumbnails": {}
+						}
+					]
+				]
+			},
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"logo",
+						{
+							"__TYPE__": "ImageContent",
+							"url": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMXx8YXBwbGV8ZW58MHx8fHwxNzE1Njg3MDE2fDA&ixlib=rb-4.0.3&q=85&rect=1108%2C844%2C4026%2C2684&w=72&h=48",
+							"alt": "red apple on white background",
+							"origin": {
+								"id": "rxN2MRdFJVg",
+								"url": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMXx8YXBwbGV8ZW58MHx8fHwxNzE1Njg3MDE2fDA&ixlib=rb-4.0.3&q=85",
+								"width": 6240,
+								"height": 4160
+							},
+							"width": 72,
+							"height": 48,
+							"edit": {
+								"background": "transparent",
+								"zoom": 1.5499999999999998,
+								"crop": {
+									"x": 1108,
+									"y": 844
+								}
+							},
+							"thumbnails": {}
+						}
+					]
+				]
+			},
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"logo",
+						{
+							"__TYPE__": "ImageContent",
+							"url": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMXx8YXBwbGV8ZW58MHx8fHwxNzE1Njg3MDE2fDA&ixlib=rb-4.0.3&q=85&rect=1150%2C860%2C3888%2C2592&w=72&h=48",
+							"alt": "red apple on white background",
+							"origin": {
+								"id": "rxN2MRdFJVg",
+								"url": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMXx8YXBwbGV8ZW58MHx8fHwxNzE1Njg3MDE2fDA&ixlib=rb-4.0.3&q=85",
+								"width": 6240,
+								"height": 4160
+							},
+							"width": 72,
+							"height": 48,
+							"edit": {
+								"background": "transparent",
+								"zoom": 1.6049999999999986,
+								"crop": {
+									"x": 1150,
+									"y": 860
+								}
+							},
+							"thumbnails": {}
+						}
+					]
+				]
+			}
+		]
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "threeColumns",
+		"primary": {
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Trusted by these six companies so far"
+						}
+					}
+				]
+			},
+			"dark_mode": {
+				"__TYPE__": "BooleanContent",
+				"value": true
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"logo",
+						{
+							"origin": {
+								"id": "rxN2MRdFJVg",
+								"url": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMXx8YXBwbGV8ZW58MHx8fHwxNzE1Njg3MDE2fDA&ixlib=rb-4.0.3&q=85",
+								"width": 6240,
+								"height": 4160
+							},
+							"url": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMXx8YXBwbGV8ZW58MHx8fHwxNzE1Njg3MDE2fDA&ixlib=rb-4.0.3&q=85&rect=1137%2C844%2C3924%2C2616&w=200&h=133",
+							"width": 200,
+							"height": 133,
+							"edit": {
+								"background": "transparent",
+								"zoom": 1.5899999999999987,
+								"crop": {
+									"x": 1137,
+									"y": 844
+								}
+							},
+							"credits": null,
+							"alt": "red apple on white background",
+							"__TYPE__": "ImageContent",
+							"thumbnails": {}
+						}
+					]
+				]
+			},
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"logo",
+						{
+							"__TYPE__": "ImageContent",
+							"url": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMXx8YXBwbGV8ZW58MHx8fHwxNzE1Njg3MDE2fDA&ixlib=rb-4.0.3&q=85&rect=744%2C625%2C4521%2C3014&w=200&h=133",
+							"alt": "red apple on white background",
+							"origin": {
+								"id": "rxN2MRdFJVg",
+								"url": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMXx8YXBwbGV8ZW58MHx8fHwxNzE1Njg3MDE2fDA&ixlib=rb-4.0.3&q=85",
+								"width": 6240,
+								"height": 4160
+							},
+							"width": 200,
+							"height": 133,
+							"edit": {
+								"background": "transparent",
+								"zoom": 1.379999999999998,
+								"crop": {
+									"x": 744,
+									"y": 625
+								}
+							},
+							"thumbnails": {}
+						}
+					]
+				]
+			},
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"logo",
+						{
+							"__TYPE__": "ImageContent",
+							"url": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMXx8YXBwbGV8ZW58MHx8fHwxNzE1Njg3MDE2fDA&ixlib=rb-4.0.3&q=85&rect=0%2C5%2C6240%2C4150&w=200&h=133",
+							"alt": "red apple on white background",
+							"origin": {
+								"id": "rxN2MRdFJVg",
+								"url": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMXx8YXBwbGV8ZW58MHx8fHwxNzE1Njg3MDE2fDA&ixlib=rb-4.0.3&q=85",
+								"width": 6240,
+								"height": 4160
+							},
+							"width": 200,
+							"height": 133,
+							"edit": {
+								"background": "transparent",
+								"zoom": 1,
+								"crop": {
+									"x": 0,
+									"y": 5
+								}
+							},
+							"thumbnails": {}
+						}
+					]
+				]
+			}
+		]
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "single",
+		"primary": {
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Premium partner",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"logo": {
+				"origin": {
+					"id": "rxN2MRdFJVg",
+					"url": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMXx8YXBwbGV8ZW58MHx8fHwxNzE1Njg3MDE2fDA&ixlib=rb-4.0.3&q=85",
+					"width": 6240,
+					"height": 4160
+				},
+				"url": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMXx8YXBwbGV8ZW58MHx8fHwxNzE1Njg3MDE2fDA&ixlib=rb-4.0.3&q=85&rect=1155%2C809%2C4001%2C2667&w=320&h=213",
+				"width": 320,
+				"height": 213,
+				"edit": {
+					"background": "transparent",
+					"zoom": 1.5599999999999994,
+					"crop": {
+						"x": 1155,
+						"y": 809
+					}
+				},
+				"credits": null,
+				"alt": "red apple on white background",
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "simpleDarkMode",
+		"primary": {
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Trusted by these two companies so far",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"dark_mode": {
+				"__TYPE__": "BooleanContent",
+				"value": true
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"logo",
+						{
+							"origin": {
+								"id": "rxN2MRdFJVg",
+								"url": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMXx8YXBwbGV8ZW58MHx8fHwxNzE1Njg3MDE2fDA&ixlib=rb-4.0.3&q=85",
+								"width": 6240,
+								"height": 4160
+							},
+							"url": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMXx8YXBwbGV8ZW58MHx8fHwxNzE1Njg3MDE2fDA&ixlib=rb-4.0.3&q=85",
+							"width": 6240,
+							"height": 4160,
+							"edit": {
+								"background": "transparent",
+								"zoom": 1,
+								"crop": {
+									"x": 0,
+									"y": 0
+								}
+							},
+							"credits": null,
+							"alt": "red apple on white background",
+							"__TYPE__": "ImageContent",
+							"thumbnails": {}
+						}
+					]
+				]
+			},
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"logo",
+						{
+							"__TYPE__": "ImageContent",
+							"url": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMXx8YXBwbGV8ZW58MHx8fHwxNzE1Njg3MDE2fDA&ixlib=rb-4.0.3&q=85",
+							"alt": "red apple on white background",
+							"origin": {
+								"id": "rxN2MRdFJVg",
+								"url": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxMXx8YXBwbGV8ZW58MHx8fHwxNzE1Njg3MDE2fDA&ixlib=rb-4.0.3&q=85",
+								"width": 6240,
+								"height": 4160
+							},
+							"width": 6240,
+							"height": 4160,
+							"edit": {
+								"background": "transparent",
+								"zoom": 1,
+								"crop": {
+									"x": 0,
+									"y": 0
+								}
+							},
+							"thumbnails": {}
+						}
+					]
+				]
+			}
+		]
+	}
+]

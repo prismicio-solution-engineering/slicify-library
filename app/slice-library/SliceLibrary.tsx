@@ -4,12 +4,12 @@ import { SharedSlice } from "@prismicio/types-internal/lib/customtypes";
 import { SharedSliceContent } from "@prismicio/types-internal/lib/content";
 import { SharedSlice as APISharedSlice, AnyRegularField, RTNode } from "@prismicio/client";
 
-//Configure the list of slice components here by importing all your slice libraries
-// Default is 
-// import { components as __allComponents } from '@/slices/index'
-import { components as ecommerceComponents } from '@/slices/blog/index'
-import { components as marketingComponents } from '@/slices/marketing/index'
-const __allComponents = { ...ecommerceComponents, ...marketingComponents }
+// If needed, Add components from all your slice libraries if you have multiple:
+// import { components as ecommerceComponents } from '@/slices/blog/index'
+// import { components as marketingComponents } from '@/slices/marketing/index'
+// const __allComponents = { ...ecommerceComponents, ...marketingComponents }
+
+import { components as __allComponents } from '@/slices/index'
 
 // import Nav which is a client component using @headlessui/react
 import SliceLibraryNav from "./SliceLibraryNav";

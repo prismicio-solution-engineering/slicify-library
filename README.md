@@ -7,7 +7,7 @@ _Prerequisite: have node v18 or above installed on your local machine : https://
 ## Step 1. Go in your PoC project folder and install packages
 
 ```bash
-cd slicify
+cd slicify-library
 npm i
 ```
 

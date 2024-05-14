@@ -1,0 +1,261 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"text_section": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Why is SEO important?",
+							"spans": []
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Example from Prismic blog",
+							"spans": [
+								{
+									"type": "hyperlink",
+									"start": 13,
+									"end": 25,
+									"data": {
+										"__TYPE__": "ExternalLink",
+										"url": "https://https//prismic.io/blog/nextjs-seo-tutorial",
+										"target": "_blank"
+									}
+								},
+								{
+									"type": "strong",
+									"start": 13,
+									"end": 25
+								}
+							]
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Good SEO gives your site the best chance at ranking high on Google, giving you more visitors. You can have the nicest site in the world, but it doesn’t matter if no one sees it. If you’re not in the top 10 sites of Google search results you’ll be seen by almost no one.",
+							"spans": []
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Better SEO leads to increased traffic, which means you’ll get more of whatever your site’s goals are. More sales, more leads, or a bigger audience.",
+							"spans": []
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Compared to other methods like advertising, SEO is a cost-effective way to get people to your site. Especially as a developer, if you can nail the technical SEO up front, the site will reap the rewards for years to come.",
+							"spans": []
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "If you want to learn more about how you as a developer impact SEO, dig a little deeper in my other post.",
+							"spans": [
+								{
+									"type": "hyperlink",
+									"start": 87,
+									"end": 104,
+									"data": {
+										"__TYPE__": "ExternalLink",
+										"url": "https://prismic.io/blog/seo-web-development",
+										"target": "_blank"
+									}
+								},
+								{
+									"type": "strong",
+									"start": 87,
+									"end": 104
+								}
+							]
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "preformatted",
+						"content": {
+							"text": "Preformatted element",
+							"spans": []
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "list-item",
+						"content": {
+							"text": "Push to deploy. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.",
+							"spans": [
+								{
+									"type": "strong",
+									"start": 0,
+									"end": 15
+								}
+							]
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "list-item",
+						"content": {
+							"text": "SSL certificates. Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim. Mattis mauris semper sed amet vitae sed turpis id. Id dolor praesent donec est. Odio penatibus risus viverra tellus varius sit neque erat velit. Faucibus commodo massa rhoncus, volutpat. Dignissim sed eget risus enim.",
+							"spans": [
+								{
+									"type": "strong",
+									"start": 0,
+									"end": 16
+								}
+							]
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "list-item",
+						"content": {
+							"text": "Database backups. Mattis mauris semper sed amet vitae sed turpis id. Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et magna sit morbi lobortis.",
+							"spans": [
+								{
+									"type": "strong",
+									"start": 0,
+									"end": 17
+								}
+							]
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Next.js vs Create React App for SEO",
+							"spans": []
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Before we can fully appreciate what Next.js offers us, let’s look at the early days of building with React. You were encouraged to use Create React App, which builds out your page with client-side rendering (CSR). CSR means that the user gets sent an empty shell for their HTML along with JavaScript files. When the JavaScript loads and runs, it injects all of the needed elements into the DOM, building the content on the user’s machine.",
+							"spans": []
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Not only is this slower because it takes time for the page to load and render, but it comes with the assumption that the JavaScript is going to load and execute perfectly on whatever machine it’s being run on. That’s risky when you consider that Google’s web crawler can run JavaScript, but it’s not known how well it performs, leaving far too much to chance.",
+							"spans": []
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Instead of sending an empty HTML document, it’s better to have all of the content already baked into the HTML when you send it to the user. This way if JavaScript takes a while to load or fails outright, users (and Google) can still read and access your content.",
+							"spans": []
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "o-list-item",
+						"content": {
+							"text": "Next.js vs Create React App for SEO",
+							"spans": []
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "o-list-item",
+						"content": {
+							"text": "Next.js rendering methods: SSG, SSR, ISR",
+							"spans": []
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "o-list-item",
+						"content": {
+							"text": "Next/Image",
+							"spans": []
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "o-list-item",
+						"content": {
+							"text": "Next.js vs Create React App for SEO",
+							"spans": []
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "o-list-item",
+						"content": {
+							"text": "Next.js rendering methods: SSG, SSR, ISR",
+							"spans": []
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "o-list-item",
+						"content": {
+							"text": "Next/Image",
+							"spans": []
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "heading3",
+						"content": {
+							"text": "Next.js rendering methods: SSG, SSR, ISR",
+							"spans": []
+						},
+						"direction": "ltr"
+					},
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Now that we know we don’t want to render client-side for best SEO results, let’s run down the different rendering methods that Next.js has built-in that solve the issues above.",
+							"spans": [
+								{
+									"type": "hyperlink",
+									"start": 104,
+									"end": 121,
+									"data": {
+										"__TYPE__": "ExternalLink",
+										"url": "https://prismic.io/blog/javascript-rendering-methods",
+										"target": "_blank"
+									}
+								},
+								{
+									"type": "strong",
+									"start": 104,
+									"end": 121
+								}
+							]
+						},
+						"direction": "ltr"
+					}
+				]
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	}
+]
