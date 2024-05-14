@@ -53,7 +53,7 @@ npm run slicemachine
 
 You can now access your SliceMachine here : [http://localhost:9999](http://localhost:9999) .
 
-You can then go into each of your slices and edit the mock data by clicking the simulate button at the top right. This mock data will be used to build your slice-library page.
+You can then go into each of your slices and edit the mock data by clicking the simulate button at the top right. This mock data will be used to build your slice-library page. Don't forget to save your mocks.
 
 SliceMachine generates mocks automatically but you might want to make them prettier!
 
