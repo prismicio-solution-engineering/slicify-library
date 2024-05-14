@@ -37,27 +37,24 @@ const FeaturedWebsitesList = async ({
   const showcaseWebsites: WebsiteDocument[] = await getShowcaseWebsites(3);
 
   const websiteList: Website[] =
-    slice.variation == "autoList"
-      ? showcaseWebsites.map((website) => ({
-        name: asText(website.data.name),
-        screenshot: {
-          url: website.data.screenshot.url!,
-          alt: website.data.screenshot.alt!
-        },
-        link:  isFilled.link(website.data.link) ? {
-          link_type: website.data.link.link_type,
-          url: website.data.link.url,
-          target: website.data.link.target
-        }
+    showcaseWebsites.map((website) => ({
+      name: asText(website.data.name),
+      screenshot: {
+        url: website.data.screenshot.url!,
+        alt: website.data.screenshot.alt!
+      },
+      link: isFilled.link(website.data.link) ? {
+        link_type: website.data.link.link_type,
+        url: website.data.link.url,
+        target: website.data.link.target
+      }
         : {
           link_type: "Web",
           url: "#",
         },
-        technology: website.data.website_technology.uid,
-        industry: website.data.industry.uid,
-      }))
-      : slice.items.map((website) => ({...website.website, link:{ url:website.website?.website_link, link_type: "Web" }} as IntegrationField<Website>)!);
-
+      technology: website.data.website_technology.uid,
+      industry: website.data.industry.uid,
+    }))
 
   return (
     <section
