@@ -5,6 +5,7 @@ Brought to you by Prismic Solution Engineering Team
 _Prerequisite:_
 - _have node v18 or above installed on your local machine : https://nodejs.org/en/_
 - _have a Prismic and Next.js project built with SliceMachine (slice-machine-ui v1.26.0 or above)_
+- _have Tailwind CSS installed for the styling of the page_
 
 > This project is a simplified version of Prismic Next.js Demo project aka [slicify](https://github.com/prismicio-solution-engineering/slicify-app)
 
