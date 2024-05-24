@@ -26,7 +26,7 @@ export function SliceLibrary({ libraries }: { libraries: SliceLibrary[] }) {
     <div>
       {/* Static sidebar for desktop */}
       <SliceLibraryNav libraries={libraries} />
-      <div className="flex flex-1 flex-col md:pl-64">
+      <div className="flex flex-1 flex-col md:pl-64 bg-gray-50">
         <div className="sticky top-0 z-10 flex h-16 flex-shrink-0 bg-white shadow">
           <div className="m-auto max-w-7xl px-4 sm:px-6 md:px-8">
             <h1 className="text-2xl font-semibold text-gray-900">
@@ -54,7 +54,7 @@ function SliceList({ libraries }: { libraries: SliceLibrary[] }) {
         const key = `${library.name}-${id}-${variation.id}`;
 
         let variationFragment: ReactNode = (
-          <div className="flex flex-wrap bg-slate-50 h-64 rounded-md justify-center content-center text-xl uppercase bold text-slate-500">
+          <div className="flex flex-wrap bg-gray-100 h-64 p-1.5 rounded-md border border-gray-200 justify-center content-center text-xl uppercase bold text-gray-500">
             Mock missing for this variation
           </div>
         );
@@ -72,7 +72,7 @@ function SliceList({ libraries }: { libraries: SliceLibrary[] }) {
           ] as SliceZoneLike;
 
           variationFragment = (
-            <div className="isolate bg-white rounded-md">
+            <div className="isolate bg-white p-1.5 rounded-md border border-gray-200">
               <SliceZone slices={mockApi} components={__allComponents} />
             </div>
           );
