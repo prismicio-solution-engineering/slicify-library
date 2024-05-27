@@ -1,0 +1,5 @@
+/* Feel free to remove this file, if Tailwind CSS styles are already
+ * available globally in your project */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

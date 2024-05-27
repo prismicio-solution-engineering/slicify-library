@@ -134,7 +134,7 @@
                 }
               },
               "credits": null,
-              "alt": null,
+              "alt": "Lorem ipsum dolor sit amet",
               "__TYPE__": "ImageContent",
               "thumbnails": {}
             }
@@ -229,7 +229,7 @@
                 }
               },
               "credits": null,
-              "alt": null,
+              "alt": "Lorem ipsum dolor sit amet",
               "__TYPE__": "ImageContent",
               "thumbnails": {}
             }
