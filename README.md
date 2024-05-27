@@ -8,7 +8,7 @@ To make use of this project, you need to have the following:
 
   - NodeJS v18 or above installed on your local machine: https://nodejs.org/en/,
   - a Prismic and Next.js project built with Slice Machine (slice-machine-ui v1.26.0 or above),
-  - already Tailwind CSS used for styling your project (or willingness to add it for Slice Library)
+  - Tailwind CSS already used for styling your project (or willingness to add it for Slice Library)
 
 > [!NOTE]
 > This project is a simplified version of Prismic Next.js Demo project a.k.a.
@@ -23,16 +23,16 @@ which — depending on the Next.js project configuration — can be located at e
 
 > [!TIP]
 > If you are not using TypeScript and don't want to set it up for your project, a simple way to produce plain JavaScript files
-> without any TypeScript annotations is the following command (`<this-repo>` and `<your-project>` are of course placeholders,
+> without any TypeScript annotations is the following command (`<slice-library-project>` and `<your-project>` are of course placeholders,
 > please adjust them to your current working directory):
 > 
 > ```bash
-> npx sucrase <this-repo>/app/slice-library -d <your-project>/app/slice-library --transforms typescript,jsx --jsx-runtime preserve
+> npx sucrase <slice-library-project>/app/slice-library -d <your-project>/app/slice-library --transforms typescript,jsx --jsx-runtime preserve
 > ```
 >
 > It will take all the TypeScript files for the `/slice-library` page, strip all TypeScript annotations from the code and place
 > resulting files in the `app/slice-library` of your project. You will still have to copy the CSS file by hand if you need it, as
-> the command transforms only TypeScript files.
+> the command transforms only the TypeScript files.
 
 There are three main files you need to copy:
 
@@ -47,7 +47,9 @@ We also provide those two optional files for your convenience:
 
   - [layout.tsx](https://github.com/prismicio-solution-engineering/slicify-library/blob/main/app/slice-library/layout.tsx) —
     provides a basic, empty layout for your slice library in case you don't have a global layout, or it will interfere with
-    slice library styling. Feel free to adjust it to your needs or remove it,
+    slice library styling (in which case, you might need to use [multiple root layouts](
+    https://nextjs.org/docs/app/building-your-application/routing/route-groups#creating-multiple-root-layouts) with this file
+    being one of them). Feel free to adjust it to your needs or remove it,
   - [styles.css](https://github.com/prismicio-solution-engineering/slicify-library/blob/main/app/slice-library/styles.css) —
     provides Tailwind CSS styles for the slice library. If you already have a layout that includes your Tailwind CSS styling
     globally, feel free to remove it.
